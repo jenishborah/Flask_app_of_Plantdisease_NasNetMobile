@@ -1,1 +1,1 @@
-# Flask_app_of_Plantdisease_NasNetMobile
+# Flask_app_of_Plantdisease_NasNetMobil
